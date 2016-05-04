@@ -23,7 +23,7 @@ The repository includes scripts for the following tasks.
   `git clone https://github.com/sunlightwang/CAPTRE.git`
 
   and `cd` to each directory to execute: (see README.\* for task 1, 2, 3, respectively)
-  * altTSS_sigDivTE
+  * altTSS_divTE
   * 3T3_5UTR_CS
   * Seq_feat
 
