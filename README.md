@@ -4,11 +4,10 @@ This is the script repository for CAPTRE analysis (cap profiling for translation
 The repository includes a few sections. 
 
 1. Identification of TSS-isoform pairs with significant divergent TE (bootstraping + FDR control) 
-   * altTSS_sigDivTE
+
 2. List of 5p-UTRs isforms without alternative splicing 
-   * 3T3_5UTR_CS
+
 3. Sequence features responsible for TE regulation 
-   * Seq_feat
 
 ##Installation: 
 * CAPTRE requires
@@ -20,7 +19,10 @@ The repository includes a few sections.
 
   `git clone https://github.com/sunlightwang/CAPTRE.git`
 
-  and `cd` to each directory to execute 
+  and `cd` to each directory to execute: (for task 1, 2, 3, respectively)
+  * altTSS_sigDivTE
+  * 3T3_5UTR_CS
+  * Seq_feat
 
 ##Contact:
 Xi Wang (xi dot wang at mdc-berlin dot de)
