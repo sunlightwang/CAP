@@ -1,11 +1,11 @@
 # CAPTRE
 This is the script repository for CAPTRE analysis (cap profiling for translational efficiency).
 
-The repository includes a few sections. 
+The repository includes scripts for the following tasks. 
 
 1. Identification of TSS-isoform pairs with significant divergent TE (bootstraping + FDR control) 
 
-2. List of 5p-UTRs isforms without alternative splicing 
+2. Construction of 5p-UTRs isforms without alternative splicing 
 
 3. Sequence features responsible for TE regulation 
 
