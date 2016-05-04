@@ -14,12 +14,13 @@ The repository includes scripts for the following tasks.
   - [Perl] (https://www.perl.org/) >=5.10 with
     - [Math-Random-OO] (http://search.cpan.org/~dagolden/Math-Random-OO-0.22/) >=0.22
   - [R] (https://www.r-project.org/) >=3.2
+  - [bedtools] (http://bedtools.readthedocs.io/en/latest/) >=2.17.0
 
 * Download scripts
 
   `git clone https://github.com/sunlightwang/CAPTRE.git`
 
-  and `cd` to each directory to execute: (for task 1, 2, 3, respectively)
+  and `cd` to each directory to execute: (see README.\* for task 1, 2, 3, respectively)
   * altTSS_sigDivTE
   * 3T3_5UTR_CS
   * Seq_feat
