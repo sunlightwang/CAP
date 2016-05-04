@@ -13,7 +13,8 @@ The repository includes scripts for the following tasks.
 * CAPTRE requires
   - [Perl] (https://www.perl.org/) >=5.10 with
     - [Math-Random-OO] (http://search.cpan.org/~dagolden/Math-Random-OO-0.22/) >=0.22
-  - [R] (https://www.r-project.org/) >=3.2
+  - [R] (https://www.r-project.org/) >=3.2 with 
+    - [Hmisc] (https://cran.r-project.org/web/packages/Hmisc/index.html)
   - [bedtools] (http://bedtools.readthedocs.io/en/latest/) >=2.17.0
 
 * Download scripts
