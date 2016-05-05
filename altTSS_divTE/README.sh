@@ -1,9 +1,9 @@
-############################################
+####################################################
 # This file is part of CAPTRE
 #
 # Author:
-#   Xi Wang, Xi.Wang@mdc-berlin.de
-############################################
+#   Xi Wang, xi dot wang at mdc hyphen berlin dot de
+####################################################
 
 # 1. bootstrap tags
 mkdir tag_boostrap

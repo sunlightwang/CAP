@@ -1,9 +1,9 @@
-############################################
+####################################################
 # This file is part of CAPTRE
 #
 # Author:
-#   Xi Wang, Xi.Wang@mdc-berlin.de
-############################################
+#   Xi Wang, xi dot wang at mdc hyphen berlin dot de
+####################################################
 
 # 1. Reconstruct 5'UTRs
 perl fmt.TSS2TIS.pl 3T3.peaks.summit.bed mm10.refseq.TIS.bed 3T3_total.splice_site.bed 3T3_total.5UTR.bed

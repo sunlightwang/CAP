@@ -1,9 +1,9 @@
-############################################
+####################################################
 # This file is part of CAPTRE
 #
 # Author:
-#   Xi Wang, Xi.Wang@mdc-berlin.de
-############################################
+#   Xi Wang, xi dot wang at mdc hyphen berlin dot de
+####################################################
 
 # 1. run seqFeat.R with sequence features except for TOP
 ## for example, uORFs and uAUGs
