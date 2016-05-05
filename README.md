@@ -22,7 +22,7 @@ The repository includes scripts for the following tasks.
 
   `git clone https://github.com/sunlightwang/CAPTRE.git`
 
-  and `cd` to each directory to execute: (see README.\* for task 1, 2, 3, respectively)
+  then `cd` to each directory and refer to README.sh inside to run. Three folders for the three tasks are listed below:
   * altTSS_divTE
   * 3T3_5UTR_CS
   * Seq_feat
@@ -32,3 +32,4 @@ Xi Wang (xi dot wang at mdc-berlin dot de)
 
 ##Citation:
 [1] Xi Wang\*, Jingyi Hou\*, Claudia Quedenau, Wei Chen (2016) Pervasive isoform-specific translational regulation via alternative transcription start sites in mammals. Under revision. 
+
