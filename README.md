@@ -31,5 +31,5 @@ The repository includes scripts for the following tasks.
 Xi Wang (xi dot wang at mdc-berlin dot de)
 
 ##Citation:
-[1] Xi Wang\*, Jingyi Hou\*, Claudia Quedenau, Wei Chen (2016) Pervasive isoform-specific translational regulation via alternative transcription start sites in mammals. Under revision. 
+[1] Xi Wang\*, Jingyi Hou\*, Claudia Quedenau, Wei Chen (2016) Pervasive isoform-specific translational regulation via alternative transcription start sites in mammals. Molecular Systems Biology, in press. 
 
