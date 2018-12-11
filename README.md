@@ -9,7 +9,7 @@ The repository includes scripts for the following tasks.
 
 3. Sequence features responsible for TE regulation 
 
-##Installation: 
+## Installation: 
 * CAPTRE requires
   - [Perl] (https://www.perl.org/) >=5.10 with
     - [Scalar-List-Utils] (http://search.cpan.org/~pevans/Scalar-List-Utils-1.45/) >=1.45
@@ -27,9 +27,9 @@ The repository includes scripts for the following tasks.
   * 3T3_5UTR_CS
   * Seq_feat
 
-##Contact:
+## Contact:
 Xi Wang (xi dot wang at mdc-berlin dot de)
 
-##Citation:
+## Citation:
 [1] Xi Wang\*, Jingyi Hou\*, Claudia Quedenau, Wei Chen (2016) [Pervasive isoform-specific translational regulation via alternative transcription start sites in mammals] (http://msb.embopress.org/content/12/7/875). Molecular Systems Biology, 12: 875.
 
